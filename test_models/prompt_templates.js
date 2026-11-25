@@ -13,6 +13,7 @@
 import hlridgeV7 from "./hlridge-v7.js";
 import hlridgeV21 from "./hlridge-v21.js";
 import hlridgeV146 from "./hlridge-v146.js";
+import hlridgeV382 from "./hlridge-v382.js";
 
 export default [
   {
@@ -215,4 +216,5 @@ Step 2. After your analysis, output your final 5 best English guesses STRICTLY a
   hlridgeV7,
   hlridgeV21,
   hlridgeV146,
+  hlridgeV382,
 ];
